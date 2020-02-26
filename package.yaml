@@ -24,6 +24,8 @@ dependencies:
 - mtl
 - random
 - diagrams
+- diagrams-lib
+- diagrams-svg
 
 library:
   source-dirs: src
